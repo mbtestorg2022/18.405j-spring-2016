@@ -73,12 +73,57 @@ The choice of topic and relevant paper(s) must be done with coordination of the 
 
 Timeline of the project is as follows:
 
-| DEADLINES | ACTIVITIES |
-| --- | --- |
-| Second month of term | Meet or email the instructors regarding the project |
-| End of Second month of term | Project Proposal due |
-| Third month of term | Write survey |
-| Two weeks before end of term | Final Project due 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+DEADLINES
+{{< thclose >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Second month of term
+{{< tdclose >}}
+{{< tdopen >}}
+Meet or email the instructors regarding the project
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+End of Second month of term
+{{< tdclose >}}
+{{< tdopen >}}
+Project Proposal due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Third month of term
+{{< tdclose >}}
+{{< tdopen >}}
+Write survey
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Two weeks before end of term
+{{< tdclose >}}
+{{< tdopen >}}
+Final Project due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Project Presentations
 
@@ -96,8 +141,45 @@ The final grade will be based on four small problem sets, a grading assignment, 
 
 The grading breakdown is as follows:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| 4 Problem sets | 40% |
-| Grading and participation | 20% |
-| Final project | 40%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4 Problem sets
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Grading and participation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final project
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
