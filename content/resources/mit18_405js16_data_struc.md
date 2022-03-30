@@ -4,6 +4,7 @@ description: 'This resource contains information regarding data structure lower 
   via communication complexity. '
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-405j-advanced-complexity-theory-spring-2016/f373ff7db6f99debba9256050d372980_MIT18_405JS16_Data_Struc.pdf
 file_type: application/pdf
+parent_uid: 377cf6e2-d62a-8f4f-2332-c93aa73d62af
 resourcetype: Document
 title: 'Advanced Complexity Theory: A Survey of Communication Complexity for Proving
   Lower Bound of Data Structures in Cell-Probe Model'

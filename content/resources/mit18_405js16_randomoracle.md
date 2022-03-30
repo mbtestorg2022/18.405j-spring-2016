@@ -4,6 +4,7 @@ description: This resource contains information regarding random oracles, the po
   hierarchy, and constant-depth circuits.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-405j-advanced-complexity-theory-spring-2016/ad2ba0d36def35eb399029fdeeb7f9fc_MIT18_405JS16_RandomOracle.pdf
 file_type: application/pdf
+parent_uid: 377cf6e2-d62a-8f4f-2332-c93aa73d62af
 resourcetype: Document
 title: 'Advanced Complexity Theory: Random Oracles, the Polynomial-Time Hierarchy,
   and Constant-depth Circuits: A Survey'
